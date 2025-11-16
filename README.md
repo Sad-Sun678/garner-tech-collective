@@ -90,7 +90,7 @@ If this resonates, add your name below as a **founding member** (via PR or issue
 ### 🔗 Connect
 
 - **GitHub:** [github.com/khpawan/garner-tech-collective](https://github.com/khpawan/garner-tech-collective)
-- **Community Chat:** [Join us on Discord!](https://discord.gg/jz3pTm8B)
+- **Community Chat:** [Join us on Discord!](https://discord.gg/qd8rZrBV)
 - **Location:** Garner, North Carolina, USA  
 
 ---
